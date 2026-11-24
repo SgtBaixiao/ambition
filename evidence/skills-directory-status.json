@@ -1,0 +1,26 @@
+{
+  "checked_at_utc": "2026-11-24T11:30:16.927692+00:00",
+  "pages": [
+    {
+      "requested_url": "https://skills.sh/sgtbaixiao/ambition/ambition",
+      "error": "HTTP Error 308: Permanent Redirect"
+    },
+    {
+      "requested_url": "https://www.skills.sh/sgtbaixiao/ambition/ambition",
+      "status": 200,
+      "final_url": "https://www.skills.sh/sgtbaixiao/ambition/ambition",
+      "body_has_skill_description": true,
+      "body_has_title": true
+    }
+  ],
+  "displayed_entrypoint_verified": true,
+  "audit": {
+    "url": "https://www.skills.sh/sgtbaixiao/ambition/ambition/security/snyk",
+    "label": "Warn",
+    "risk_level": "MEDIUM",
+    "issue": "W011",
+    "reason": "Third-party content exposure detected (indirect prompt injection risk).",
+    "full_analysis_exposure_risk": 0.1,
+    "raw_page_sha256": "c3bc6097fb9103a288d77852e23f4c135da4bba151862b8139ee3c1c99bb2242"
+  }
+}

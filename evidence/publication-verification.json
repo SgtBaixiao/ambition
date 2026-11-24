@@ -1,0 +1,26 @@
+{
+  "verified_at_utc": "2026-11-24T11:30:17.079541+00:00",
+  "repository": "https://github.com/SgtBaixiao/ambition",
+  "public": true,
+  "release": "https://github.com/SgtBaixiao/ambition/releases/tag/v1.0.0",
+  "commit": "1939e0e996311924eedc421095ba3d60e845c26c",
+  "ci": "https://github.com/SgtBaixiao/ambition/actions/runs/45384491470",
+  "ci_conclusion": "success",
+  "installer": "skills@1.9.0",
+  "command": "npx --yes skills@1.9.0 add SgtBaixiao/ambition@v1.0.0 --skill ambition -a codex --copy -y",
+  "skill_files_verified": 11,
+  "remote_install_source_equal": true,
+  "sha256": {
+    "LICENSE": "910fac827f80b6dfb6caaac1306a9324ec42017fe7eb89d3596205546804a456",
+    "SKILL.md": "a055f7b37d0f0c4f4a16e141b3a9a830366a588484e758229422d61773cf4a51",
+    "references/depth.md": "be7a4ab1de41ae2b2cd33f1b41fad7a00833e417cd065b44d550559d657ce7b4",
+    "references/completeness.md": "0ac19951a0ad76b758163350d39fc9722fbb8f032960d3a3e11f0b2db579c327",
+    "references/sources.md": "31f4474e926c832116a16163579021769b283557e811fba6e13c25b93a48e906",
+    "references/evidence.md": "bd98371c88571ee1728dbdd9c471f6e914baf24f9903ba9bf1a52f50e42714f6",
+    "references/methods.md": "b219ae24610e6143f070cfc3b5c8054720ff17976d1c4ab494773e6df1baad01",
+    "references/improvement.md": "283788aa9770a3596eab8dcc67d304d6031ea00e0a37c5d9795340f55ee052eb",
+    "references/altitude.md": "42259b8b89e172f8214e5719848670a1b6ccded1e064cbbd6775b84e800c7aac",
+    "references/range.md": "fc2cef9be96ff9f1473e81b875af3c19dcb017992513f4319c35372ad30ac638",
+    "agents/openai.yaml": "9516f099889e24fa53bc9b6f8fe164cfff97c8c02bb00afdd478c761fc5f2086"
+  }
+}

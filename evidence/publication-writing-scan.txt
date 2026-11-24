@@ -1,0 +1,17 @@
+=== docs/publication.md ===
+    (clean)
+=== docs/validation.md ===
+  [免责尾巴（原文有的照留）·建议/体检] L13: 未核查
+        | R3，首页 3D 提议 | 不预设 Blender 适合；保留旧手机、慢网、乐趣与零预算。提出局部互动类比，同时说明成熟方法来源未核查及目标性能未知。 |
+=== README.md ===
+    (clean)
+=== local-release/release-notes.md ===
+    (clean)
+---- 摘要 ----
+  半角标点     0 处
+  破折号串     0 处
+  B2 变体    0 处
+  元话语      0 处
+  序号标题     0 处
+  免责尾巴（原文有的照留） 1 处
+  fail-on=half -> 零命中，退出0

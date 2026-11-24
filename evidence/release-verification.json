@@ -1,0 +1,11 @@
+{
+  "release": "https://github.com/SgtBaixiao/ambition/releases/tag/v1.0.0",
+  "published_at": "2026-11-24T11:29:18Z",
+  "assets_sha256": {
+    "pass-2-user.zip": "f603a10af2646f4e234fc9976e9a4a80ef261382832604c6abffaddaf3f5f51a",
+    "pass-1-article.zip": "728d3b8754f3aa5ecbcff47838091c43f81c443e807869f35b94ce2b6b65090c",
+    "ambition-v1.0.0.zip": "5449ae24532b35bd064cc064fc85641dd6e900a11e70a2580ca32417d591d9da",
+    "manifest.json": "a9e7247d40787c91b57684ef90bb49aa65c39ea52b8e1f9d7cca115b755f09c1",
+    "SHA256SUMS": "4188294d5b723691551153a753d4ceb1699357834f6ccb67818f0ff819178e8a"
+  }
+}
