@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-11-24T11:05:47.420153+00:00",
+  "files": {
+    "SKILL.md": "b2d361251aced682ab2f13b6eb9e29837aaf578d6a23b80cf03f0b6d58a1edd9",
+    "references/depth.md": "be7a4ab1de41ae2b2cd33f1b41fad7a00833e417cd065b44d550559d657ce7b4",
+    "references/completeness.md": "6349a409571ce5f36b1237b17bf865938b98c8cdb2399d184ded7fbc318d9955",
+    "references/sources.md": "a5fce0b5716407e5d006e81810a0f3655bb56cbbe3ea723085cde10c79cb3792",
+    "references/evidence.md": "bd98371c88571ee1728dbdd9c471f6e914baf24f9903ba9bf1a52f50e42714f6",
+    "references/methods.md": "b219ae24610e6143f070cfc3b5c8054720ff17976d1c4ab494773e6df1baad01",
+    "references/improvement.md": "283788aa9770a3596eab8dcc67d304d6031ea00e0a37c5d9795340f55ee052eb",
+    "references/altitude.md": "42259b8b89e172f8214e5719848670a1b6ccded1e064cbbd6775b84e800c7aac",
+    "agents/openai.yaml": "22928348c410b8970326bc2972e553297c8c9362689d9953beb26039ea6b0c7a"
+  }
+}

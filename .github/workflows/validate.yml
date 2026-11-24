@@ -1,0 +1,38 @@
+name: Validate skill package
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install PyYAML==6.0.3
+      - name: Validate metadata
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import yaml
+          for root in [Path('skills/ambition'), Path('drafts/pass-1-article'), Path('drafts/pass-2-user')]:
+              entry = root/'SKILL.md' if root.name == 'ambition' else root/'SKILL.md.snapshot'
+              frontmatter = yaml.safe_load(entry.read_text().split('---', 2)[1])
+              assert frontmatter['name'] == 'ambition'
+              assert isinstance(frontmatter['description'], str)
+              metadata = yaml.safe_load((root/'agents/openai.yaml').read_text())
+              assert '$ambition' in metadata['interface']['default_prompt']
+              assert 25 <= len(metadata['interface']['short_description']) <= 64
+              assert metadata['policy']['allow_implicit_invocation'] is True
+          PY
+      - name: Build and verify packages
+        run: |
+          python scripts/build_release.py
+          git diff --exit-code -- dist/manifest.json

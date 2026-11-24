@@ -1,0 +1,50 @@
+[
+  {
+    "id": "biomimicry-process",
+    "requested_url": "https://toolbox.biomimicry.org/methods/process/",
+    "retrieved_at_utc": "2026-11-24T11:04:14.480849+00:00",
+    "error": "<urlopen error _ssl.c:1112: The handshake operation timed out>"
+  },
+  {
+    "id": "biomimicry-abstract",
+    "requested_url": "https://toolbox.biomimicry.org/methods/abstract/",
+    "retrieved_at_utc": "2026-11-24T11:04:14.482014+00:00",
+    "error": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "id": "biomimicry-evaluate",
+    "requested_url": "https://toolbox.biomimicry.org/methods/evaluate/",
+    "retrieved_at_utc": "2026-11-24T11:04:14.482172+00:00",
+    "error": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "id": "skills-cli-reference",
+    "requested_url": "https://raw.githubusercontent.com/vercel-labs/skills/main/docs/commands.md",
+    "retrieved_at_utc": "2026-11-24T11:04:14.482299+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/vercel-labs/skills/main/docs/commands.md",
+    "sha256": "9903806eb79f859818fac3c64474cb2116e3c9b0ac3967983f8d0a760bd0f937",
+    "file": "skills-cli-reference.md"
+  },
+  {
+    "id": "skills-faq",
+    "requested_url": "https://www.skills.sh/docs/faq",
+    "retrieved_at_utc": "2026-11-24T11:04:14.482418+00:00",
+    "status": 200,
+    "final_url": "https://www.skills.sh/docs/faq",
+    "sha256": "0b187e70d16a8421f934648320f610806f5ee8ea76103c56056710deb793c32f",
+    "file": "skills-faq.html"
+  },
+  {
+    "id": "ideo-analogous-inspiration",
+    "requested_url": "https://www.designkit.org/methods/analogous-inspiration.html",
+    "retrieved_at_utc": "2026-11-24T11:06:05.618782+00:00",
+    "error": "<urlopen error _ssl.c:1112: The handshake operation timed out>"
+  },
+  {
+    "id": "asknature-taxonomy",
+    "requested_url": "https://asknature.org/resource/biomimicry-taxonomy/",
+    "retrieved_at_utc": "2026-11-24T11:06:05.619270+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

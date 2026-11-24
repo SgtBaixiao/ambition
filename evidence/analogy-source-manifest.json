@@ -1,0 +1,29 @@
+[
+  {
+    "file": "gentner-1983.pdf",
+    "url": "https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf",
+    "resolved_url": "https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf",
+    "retrieved_at": "2026-11-24T11:04:47.330316+00:00",
+    "sha256": "3374d309ec8eb96d03dac6ce5801ca4cf7daa9594f07952d04ecf6b04f529969",
+    "bytes": 1408913,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "gick-holyoak-1980.pdf",
+    "url": "https://reasoninglab.psych.ucla.edu/wp-content/uploads/sites/273/2021/04/Gick-Holyoak1980Analogical-Problem-Solving.pdf",
+    "resolved_url": "https://reasoninglab.psych.ucla.edu/wp-content/uploads/sites/273/2021/04/Gick-Holyoak1980Analogical-Problem-Solving.pdf",
+    "retrieved_at": "2026-11-24T11:04:46.572643+00:00",
+    "sha256": "d2db9fe60000114bc8d4f068c97b0b41be4cc6c197512f5ac0ea01d20f8950b8",
+    "bytes": 8181741,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "holyoak-koh-1987.pdf",
+    "url": "https://reasoninglab.psych.ucla.edu/wp-content/uploads/sites/273/2021/04/HollyoakKoh1987.pdf",
+    "resolved_url": "https://reasoninglab.psych.ucla.edu/wp-content/uploads/sites/273/2021/04/HollyoakKoh1987.pdf",
+    "retrieved_at": "2026-11-24T11:07:39.987645+00:00",
+    "sha256": "41009b1b8452f5026df0cc59fdfb4c606919314e64fc1e921bae64e5980b3f43",
+    "bytes": 4096131,
+    "content_type": "application/pdf"
+  }
+]

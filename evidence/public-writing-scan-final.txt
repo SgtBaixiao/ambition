@@ -1,0 +1,78 @@
+=== README.md ===
+    (clean)
+=== docs/analogy-primary-notes.md ===
+    (clean)
+=== docs/research-and-refinement.md ===
+  [免责尾巴（原文有的照留）·建议/体检] L44: 未核查
+        第一遍案例未出现目标替换、约束丢失或执行越界。评审案例优先处理口径分歧，入职案例区分背诵与实际错误处理。首页案例提出局部互动类比，但未取得舞台或木偶制作的成熟做法来源，并明确其探索状态。这暴露了完成条
+  [免责尾巴（原文有的照留）·建议/体检] L63: 未核查
+        | 找到其他领域的成熟方法 | 源领域成熟、目标适用与工具可用分开；未核查就保持探索状态，不能用机构或角色名称代替来源。 |
+=== docs/validation.md ===
+  [免责尾巴（原文有的照留）·建议/体检] L13: 未核查
+        | R3，首页 3D 提议 | 不预设 Blender 适合；保留旧手机、慢网、乐趣与零预算。提出局部互动类比，同时说明成熟方法来源未核查及目标性能未知。 |
+=== docs/writing-check.md ===
+    (clean)
+=== skills/ambition/SKILL.md ===
+    (clean)
+=== skills/ambition/references/altitude.md ===
+    (clean)
+=== skills/ambition/references/completeness.md ===
+    (clean)
+=== skills/ambition/references/depth.md ===
+    (clean)
+=== skills/ambition/references/evidence.md ===
+    (clean)
+=== skills/ambition/references/improvement.md ===
+    (clean)
+=== skills/ambition/references/methods.md ===
+    (clean)
+=== skills/ambition/references/range.md ===
+    (clean)
+=== skills/ambition/references/sources.md ===
+    (clean)
+=== drafts/pass-1-article/references/altitude.md ===
+    (clean)
+=== drafts/pass-1-article/references/completeness.md ===
+    (clean)
+=== drafts/pass-1-article/references/depth.md ===
+    (clean)
+=== drafts/pass-1-article/references/evidence.md ===
+    (clean)
+=== drafts/pass-1-article/references/improvement.md ===
+    (clean)
+=== drafts/pass-1-article/references/methods.md ===
+    (clean)
+=== drafts/pass-1-article/references/range.md ===
+    (clean)
+=== drafts/pass-1-article/references/sources.md ===
+    (clean)
+=== drafts/pass-2-user/references/altitude.md ===
+    (clean)
+=== drafts/pass-2-user/references/completeness.md ===
+    (clean)
+=== drafts/pass-2-user/references/depth.md ===
+    (clean)
+=== drafts/pass-2-user/references/evidence.md ===
+    (clean)
+=== drafts/pass-2-user/references/improvement.md ===
+    (clean)
+=== drafts/pass-2-user/references/methods.md ===
+    (clean)
+=== drafts/pass-2-user/references/range.md ===
+    (clean)
+=== drafts/pass-2-user/references/sources.md ===
+    (clean)
+=== drafts/pass-1-article/SKILL.md.snapshot ===
+    (clean)
+=== drafts/pass-2-user/SKILL.md.snapshot ===
+    (clean)
+=== evidence/validation-plan.md ===
+    (clean)
+---- 摘要 ----
+  半角标点     0 处
+  破折号串     0 处
+  B2 变体    0 处
+  元话语      0 处
+  序号标题     0 处
+  免责尾巴（原文有的照留） 3 处
+  fail-on=half -> 零命中，退出0

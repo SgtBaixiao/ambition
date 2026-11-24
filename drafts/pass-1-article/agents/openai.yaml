@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ambition"
+  short_description: "重审目标、深化研究或借用跨领域方法，保留约束并验证选择"
+  default_prompt: "请用 $ambition 处理这个任务，按需选择 altitude、depth 或 range，保留我的明确目标和约束，给出方法依据、实现方案与验证标准。"
+
+policy:
+  allow_implicit_invocation: true
